@@ -6,6 +6,7 @@
 # Appearance
 
 appearance:
+  mode: light
   theme_day: minimal
   theme_night: minimal
   font: minimal
@@ -33,9 +34,9 @@ marketing:
 
 header:
   navbar:
-    enable: true
+    enable: false
     align: l
-    show_logo: true
+    show_logo: false
     show_language: false
     show_day_night: true
     show_search: true
@@ -55,8 +56,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '02 Jan 2006'
+  time_format: '15:04'
   address_format: en-us
 
 # Site features
