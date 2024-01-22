@@ -122,6 +122,6 @@ highlight_name: true
 
 Wenhao SUN is currently a postgraduate research student at the [Alibaba-NTU Singapore Joint Research Institute](https://www.ntu.edu.sg/alibaba-ntu-jri), [Nanyang Technological University](https://www.ntu.edu.sg/).
 
-Before embarking on his current academic journey, he ventured into the field of data science within the industrial landscape with [Lazada](https://www.lazada.com/en/), [Alibaba Group](https://www.alibabagroup.com/en-US/). Prior to this experience, he completed his Master's degree from [NUS](https://nus.edu.sg/) in 2021. In 2020, he accomplished his Bachelor's degree from [TJU](https://www.tju.edu.cn/english/index.htm).
+Before embarking on his current academic journey, he ventured into the field of data science with [Lazada](https://www.lazada.com/en/), [Alibaba Group](https://www.alibabagroup.com/en-US/). Prior to this experience, he completed his Master's degree from [NUS](https://nus.edu.sg/) in 2021 and Bachelor's degree from [TJU](https://www.tju.edu.cn/english/index.htm) in 2020.
 
-Wenhao's research interests span broadly across computer vision and generative models.
+Wenhao's research interests span broadly across CV and generative models.
