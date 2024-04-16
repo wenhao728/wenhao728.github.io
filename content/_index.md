@@ -19,6 +19,25 @@ sections:
 #       username: admin
 #     design:
 #       columns: '1'
+
+#   - block: collection
+#     id: publications
+#     content:
+#       title: Publications
+#     #   text: |-
+#     #     {{% callout note %}}
+#     #     Quickly discover relevant content by [filtering publications](./publication/).
+#     #     {{% /callout %}}
+#     #   # Choose how many pages you would like to display (0 = all pages)
+#     #   count: 3
+#       filters:
+#         folders:
+#           - publication
+#         exclude_featured: true
+#     design:
+#       columns: '2'
+#       view: compact
+
   - block: experience
     content:
       title: Experience
@@ -47,24 +66,6 @@ sections:
           date_end: '2021-06-01'
     design:
       columns: '2'
-
-#   - block: collection
-#     id: publications
-#     content:
-#       title: Publications
-#     #   text: |-
-#     #     {{% callout note %}}
-#     #     Quickly discover relevant content by [filtering publications](./publication/).
-#     #     {{% /callout %}}
-#     #   # Choose how many pages you would like to display (0 = all pages)
-#     #   count: 3
-#       filters:
-#         folders:
-#           - publication
-#         exclude_featured: true
-#     design:
-#       columns: '2'
-#       view: citation
 
 #   - block: collection
 #     id: posts

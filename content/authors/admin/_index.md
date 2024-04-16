@@ -25,7 +25,7 @@ organizations:
     url: https://www.ntu.edu.sg/alibaba-ntu-jri
 
 # Short bio (displayed in user profile at end of posts)
-bio: Wenhao SUN is currently a postgraduate research student at the [Alibaba-NTU Singapore Joint Research Institute](https://www.ntu.edu.sg/alibaba-ntu-jri), [Nanyang Technological University](https://www.ntu.edu.sg/).
+bio: Wenhao SUN is currently a postgraduate research student at the [Alibaba-NTU Singapore Joint Research Institute](https://www.ntu.edu.sg/alibaba-ntu-jri), [Nanyang Technological University](https://www.ntu.edu.sg/), under the supervision of [Prof. Dacheng TAO](https://dr.ntu.edu.sg/cris/rp/rp02343).
 
 # Interests to show in About widget
 interests:
@@ -93,7 +93,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'wenhao006@e.ntu.edu.sg'
+    link: 'mailto:wenhao006@ntu.edu.sg'
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/GeorgeCushen
@@ -120,7 +120,8 @@ social:
 highlight_name: true
 ---
 
-Wenhao SUN is currently a postgraduate research student at the [Alibaba-NTU Singapore Joint Research Institute](https://www.ntu.edu.sg/alibaba-ntu-jri), [Nanyang Technological University](https://www.ntu.edu.sg/).
+Wenhao SUN is currently a postgraduate research student at the [Alibaba-NTU Singapore Joint Research Institute](https://www.ntu.edu.sg/alibaba-ntu-jri), [Nanyang Technological University](https://www.ntu.edu.sg/), under the supervision of [Prof. Dacheng TAO](https://dr.ntu.edu.sg/cris/rp/rp02343).
+
 
 Before embarking on his current academic journey, he ventured into the field of data science with [Lazada](https://www.lazada.com/en/), [Alibaba Group](https://www.alibabagroup.com/en-US/). Prior to this experience, he completed his Master's degree from [NUS](https://nus.edu.sg/) in 2021 and Bachelor's degree from [TJU](https://www.tju.edu.cn/english/index.htm) in 2020.
 
